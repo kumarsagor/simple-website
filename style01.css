@@ -1,0 +1,15 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#card-section{
+	padding: 5%;
+	text-align: center;
+}
+.card-col{
+	padding: 2% 2%;
+}
+
+.card:hover{
+	box-shadow: 5px 10px 20px 1px black;
+}
